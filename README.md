@@ -1,4 +1,4 @@
-# League Matchmaking Analysis
+# League of Legend Matchmaking Analysis
 
 ## Objective
 
